@@ -1,4 +1,4 @@
-from SearchAlgoPlayground import PlayGround
+from SearchAlgoPlayground import PlayGround,Node,Edge
 from SearchAlgoUtlis import *
 
 PATH_NODE_COLOR = (242, 163, 124) #Color for node in path
